@@ -25,3 +25,30 @@ Python (Pandas, NumPy, Matplotlib, Seaborn), Scikit-learn, OSRM, Modelos de Regr
 Resultados obtenidos:
 Desarrollo de modelos predictivos con alta precisión (R² > 0.85) para analizar discrepancias logísticas.
 Generación de insights prácticos que permiten a Delhivery optimizar rutas y tiempos de entrega, mejorando la eficiencia operativa.
+
+
+"""Delhivery es una importante empresa de servicios logísticos y de cadena de suministro en India, conocida por su amplio alcance y sus soluciones 
+de entrega eficientes. La empresa aprovecha la tecnología avanzada para brindar servicios logísticos integrales, lo que garantiza entregas puntuales 
+y confiables en varias regiones.
+
+Casos de uso potenciales
+
+El análisis de este conjunto de datos ofrece información valiosa sobre las operaciones logísticas de Delhivery, revelando detalles sobre la eficiencia 
+de los viajes, la optimización de rutas, los tipos de transporte y el rendimiento de las entregas.
+Permite una comprensión integral de cómo se programan y ejecutan los viajes, cómo diferentes factores afectan los tiempos de entrega y cómo se 
+optimizan las rutas utilizando motores de enrutamiento de código abierto.
+Este extenso conjunto de datos es un recurso valioso para mejorar las estrategias logísticas, optimizar el rendimiento de las entregas y tomar 
+decisiones informadas en la gestión de la cadena de suministro.
+¿Cómo puedes contribuir?
+
+La empresa busca ayuda para comprender y procesar datos de sus procesos de ingeniería:
+
+Limpieza y manipulación de datos : limpie, desinfecte y manipule datos para extraer características útiles de campos sin procesar.
+Interpretación y análisis de datos : analizar datos sin procesar para ayudar al equipo de ciencia de datos a crear modelos de pronóstico precisos."""
+
+#Comencemos cargando el conjunto de datos y realizando una inspección inicial para comprender su estructura e identificar cualquier problema potencial que deba solucionarse.
+# Ser dirigido. Esto nos ayudará a limpiar y manipular los datos de manera efectiva.
+
+#Comenzaremos cargando el conjunto de datos y mostrando las primeras filas para obtener una descripción general de los datos.
+
+# Cargue el conjunto de datos y muestre las primeras filas para comprender su estructura
